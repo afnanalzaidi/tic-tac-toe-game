@@ -6,7 +6,7 @@ Play locally with a friend and see who wins — O or X!
 🌐 Live Demo
   <img width="1821" height="823" alt="GALAXY-ARTS - Google Chrome 10_9_2025 3_13_47 AM" src="https://github.com/user-attachments/assets/afe29633-ce4c-4346-8824-1b6b4c4dbd16" />
 
-🎮 Play the Game Here :
+🎮 Play the Game Here :https://afnanalzaidi.github.io/tic-tac-toe-game/
 
 ✨ Features
 
@@ -53,3 +53,4 @@ Afnan Al Zaidi
 ⭐ Support
 
 If you like this project, give it a star on GitHub!
+
